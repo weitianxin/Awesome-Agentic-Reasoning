@@ -737,6 +737,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [AFlow: Automating Agentic Workflow Generation](https://openreview.net/forum?id=z5uVAKwmjf) | ICLR 2025 |
 | [Testing Advanced Driver Assistance Systems Using Multi-Objective Search and Neural Networks](https://dl.acm.org/doi/10.1145/2970276.2970311) | ASE 2016 |
 | [Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639) | 2025 |
+| [CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://arxiv.org/abs/2604.01658) | 2026 |
 
 #### Multi-agent Memory Management for Evolution
 
@@ -753,6 +754,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [MAPLE: Multi-Agent Adaptive Planning with Long-Term Memory for Table Reasoning](https://aclanthology.org/2025.alta-main.10/) | ALTA 2025 |
 | [Lyfe Agents: Generative agents for low-cost real-time social interactions](https://arxiv.org/abs/2310.02172) | 2023 |
 | [Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving](https://arxiv.org/abs/2507.06229) | 2025 |
+| [CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://arxiv.org/abs/2604.01658) | 2026 |
 
 #### Training Multi-agent to Evolve
 
@@ -847,6 +849,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [CodeCoR: An LLM-based Self-Reflective Multi-Agent Framework for Code Generation](https://arxiv.org/abs/2501.07811) | 2025 |
 | [SyncMind: Measuring Agent Out-of-Sync Recovery in Collaborative Software Engineering](https://arxiv.org/abs/2502.06994) | ICML 2025 |
 | [Hallucination to Consensus: Multi-Agent LLMs for End-to-End Test Generation](https://arxiv.org/abs/2506.02943) | 2025 |
+| [CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://arxiv.org/abs/2604.01658) | 2026 |
 
 ### 🔬 Scientific Discovery Agents
 
