@@ -1413,3 +1413,4 @@ This repository is licensed under the MIT License.
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=weitianxin/Awesome-Agentic-Reasoning&type=Date&from=2026-01-15)](https://star-history.com/#weitianxin/Awesome-Agentic-Reasoning&Date)
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) - AI monitoring dashboard for AI agents and LLMs. [Demo](https://flik2002.github.io/openclaw-monitor-frontend)
