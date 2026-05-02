@@ -630,6 +630,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Agent-oriented planning in multi-agent systems](https://arxiv.org/abs/2410.02189) | 2024 |
 | [AgentRouter: A Knowledge-Graph-Guided LLM Router for Collaborative Multi-Agent Question Answering](https://arxiv.org/abs/2510.05445) | 2025 |
 | [Talk to Right Specialists: Routing and planning in multi-agent system for question answering](https://arxiv.org/abs/2501.07813) | 2025 |
+| [AutoNumerics: An Autonomous, PDE-Agnostic Multi-Agent Pipeline for Scientific Computing](https://arxiv.org/abs/2602.17607) | 2026 |
 
 ##### Theory-of-Mind-Augmented Collaboration
 
