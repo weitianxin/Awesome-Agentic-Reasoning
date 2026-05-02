@@ -252,6 +252,8 @@ If you find this repository or paper useful, please consider citing the survey p
 
 
 ### 🛠️ Tool-Use Optimization
+- **[OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend)** (*2025*)
+  > Real-time AI agent monitoring dashboard for AI agents and LLMs, built with Vue3 and Node.js.
 
 ![tool](figs/tool_use.png)
 
