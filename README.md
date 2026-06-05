@@ -1413,3 +1413,8 @@ This repository is licensed under the MIT License.
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=weitianxin/Awesome-Agentic-Reasoning&type=Date&from=2026-01-15)](https://star-history.com/#weitianxin/Awesome-Agentic-Reasoning&Date)
+
+
+## Benchmarks
+
+- [REFUTE](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) — Scientific critique & epistemic calibration on recent science summaries (Apache-2.0). [Leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard) · [Technical report](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/TECHNICAL_REPORT.md) · [Integrators](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/INTEGRATORS.md)
