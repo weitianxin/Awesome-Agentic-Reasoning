@@ -653,6 +653,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [DSPy Assertions: Computational Constraints for Self-Refining Language Model Pipelines](https://arxiv.org/abs/2312.13382) | 2023 |
 | [Multi-agent Design: Optimizing Agents with Better Prompts and Topologies](https://arxiv.org/abs/2502.02533) | 2025 |
 | [Automatic Prompt Optimization with "Gradient Descent" and Beam Search](https://arxiv.org/abs/2305.03495) | 2023 |
+| [Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations](https://arxiv.org/abs/2509.16457) | EMNLP 2025 |
 
 ##### Graph-based Topology Generation
 
