@@ -1388,6 +1388,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | [BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents](https://arxiv.org/abs/2504.12516) | 2025 |
 | [BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](https://www.arxiv.org/abs/2504.19314) | 2025 |
 | [Video-Browser: Towards Agentic Open-web Video Browsing](https://arxiv.org/pdf/2512.23044) | 2025 |
+| [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523) | 2026 |
 
 
 #### General Tool-Use Agents
