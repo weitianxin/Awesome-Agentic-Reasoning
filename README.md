@@ -1371,6 +1371,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | [Agent-as-a-Judge: Evaluate Agents with Agents](https://arxiv.org/abs/2410.10934) | 2024 |
 | [InfoDeepSeek: Benchmarking Agentic Information Seeking for Retrieval-Augmented Generation](https://arxiv.org/abs/2505.15872) | 2025 |
 | [A Benchmark for Deep Information Synthesis](https://arxiv.org/abs/2602.21143) | ICLR 2026 |
+| [Super Research: Answering Highly Complex Questions with Large Language Models through Super Deep and Super Wide Research](https://arxiv.org/abs/2603.00582) | 2026 |
 
 
 
