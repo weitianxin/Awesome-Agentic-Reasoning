@@ -461,6 +461,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) | NeurIPS 2023 |
 | [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073) | 2022 |
 | [ReflectEvo: Improving Meta Introspection of Small LLMs by Learning Self-Reflection](https://aclanthology.org/2025.findings-acl.871/) | ACL (Findings) 2025 |
+| [More Methods, Better Agents? A Reality Check on Self-Distillation in Agentic Reinforcement Learning](https://arxiv.org/abs/2610.19789) [[code]](https://github.com/aim-uofa/Self-Distillation-AgentRL) | 2026 |
 
 #### Validator-Driven Feedback
 
