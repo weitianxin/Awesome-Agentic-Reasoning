@@ -311,6 +311,7 @@ If you find this repository or paper useful, please consider citing the survey p
 
 | Paper | Year |
 | --- | --- |
+| [Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction](https://arxiv.org/abs/2601.12762) [[code]](https://github.com/NEUIR/ToolMaster) | 2026 |
 | [Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report](https://arxiv.org/abs/2608.15763) | 2026 |
 | [On Effectiveness and Efficiency of Agentic Tool-calling and RL Training](https://arxiv.org/abs/2606.00135) | ICML 2026 |
 | [Tool-integrated Reinforcement Learning for Repo Deep Search](https://arxiv.org/abs/2508.03012) | ICSE 2026 |
