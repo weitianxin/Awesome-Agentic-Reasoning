@@ -784,6 +784,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [MARS: Optimizing Dual-System Deep Research via Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2510.04935) | 2025 |
 | [Preference-Based Multi-Agent Reinforcement Learning: Data Coverage and Algorithmic Techniques](https://arxiv.org/abs/2409.00717) | 2024 |
 | [The Alignment Waltz: Jointly Training Agents to Collaborate for Safety](https://arxiv.org/abs/2510.08240) | 2025 |
+| [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://arxiv.org/abs/2605.16757) | STAI-X 2026 (Paper Award Honorable Mention) |
 
 ---
 
